@@ -24,8 +24,8 @@
 
 ### 📌 Current Projects
 
-- 📖 [Mr.Bookich](https://github.com/DariaSK18/mr.bookich) — Vue app to track your reading progress
-- 🎓 [CS50 Projects](https://github.com/DariaSK18/cs50) — Harvard’s Intro to Computer Science course (in progress)
+- 📖 [Mr.Bookich](https://github.com/DariaSK18/book-tracker.git) — Vue app to track your reading progress
+- 🎓 [CS50 Projects](https://github.com/DariaSK18/cs50.git) — Harvard’s Intro to Computer Science course (in progress)
 - 🧪 Experimental playgrounds for practice in JavaScript and Python
 
 ---
