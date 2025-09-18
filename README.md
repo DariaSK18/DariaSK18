@@ -33,9 +33,6 @@
 ### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/daria-steblovska-00439b17a/)
-
----
-
 [![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:darias1896.96@gmail.com )
 
 ---
