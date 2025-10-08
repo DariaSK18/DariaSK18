@@ -9,11 +9,9 @@ My main tech stack is Vue.js, JavaScript and HTML/CSS.
 
 I’ve built several small projects and I’m currently focused on building full-stack apps with clean architecture and good logic.
 
-Books, neuroscience, and programming keep me inspired ﻿
+Books, neuroscience and programming keep me inspired
+
 ---
 
 ![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=DariaSK18&show_icons=true&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DariaSK18&layout=compact&theme=vue-dark)
-
-
-
